@@ -1,0 +1,6 @@
+groter = 1/2 > 0.5
+print (groter)
+groter = 1/2 == 0.5
+print (groter)
+groter = 1/2 < 0.5
+print (groter)

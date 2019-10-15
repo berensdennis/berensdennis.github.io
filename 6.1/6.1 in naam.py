@@ -1,0 +1,6 @@
+naam = ("dennis")
+print("a" in "naam")
+print("e" in "naam")
+print("i" in "naam")
+print("o" in "naam")
+print("u" in "naam")
